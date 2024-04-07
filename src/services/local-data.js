@@ -1,3 +1,38 @@
+export const footerImages = [
+  {
+    title: "音乐开放平台",
+    link: "https://developer.music.163.com/st/developer"
+  },
+  {
+    title: "云村交易所",
+    link: "https://music.163.com/st/web-sublicense/home"
+  },
+  {
+    title: "Amped Studio",
+    link: "https://web-amped.music.163.com/"
+  },
+  {
+    title: "X StudioAI歌手",
+    link: "https://xstudio.music.163.com/"
+  },
+  {
+    title: "用户认证",
+    link:"https://music.163.com/st/userbasic#/auth"
+  },
+  {
+    title: "音乐交易平台",
+    link:"https://music.163.com/st/ad-cms-bills/mlogin?from=mainStation"
+  },
+  {
+    title: "云推歌",
+    link:"https://music.163.com/st/ad-song/login"
+  },
+  {
+    title: "赞赏",
+    link:"https://music.163.com/web/reward"
+  },
+]
+
 export const footerLinks = [
   {
     title: "服务条款",
@@ -28,31 +63,4 @@ export const footerLinks = [
     title: "联系我们",
     link: "//mp.music.163.com/600948c936c13f4d09752e73/contact-us-web/index.html?source=Music-Main-Station"
   }
-]
-
-export const footerImages = [
-  {
-    link: "https://developer.music.163.com/st/developer"
-  },
-  {
-    link: "https://music.163.com/st/web-sublicense/home"
-  },
-  {
-    link: "https://web-amped.music.163.com/"
-  },
-  {
-    link: "https://xstudio.music.163.com/"
-  },
-  {
-    link:"https://music.163.com/st/userbasic#/auth"
-  },
-  {
-    link:"https://music.163.com/st/ad-cms-bills/mlogin?from=mainStation"
-  },
-  {
-    link:"https://music.163.com/st/ad-song/login"
-  },
-  {
-    link:"https://music.163.com/web/reward"
-  },
 ]
